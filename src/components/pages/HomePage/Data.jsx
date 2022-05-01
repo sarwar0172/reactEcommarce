@@ -7,7 +7,7 @@ export const homeObjOne = {
     description: "Get acces to our exclusive diamon card that allow you to send unlimited transactions without getting changed any fees",
     buttonlabel:'Get Started',
     imgStart:'',
-    img:'images/svg-1.svg',
+    img:'./images/svg-1.svg',
     alt:'Credit Card'
 
 
@@ -22,7 +22,7 @@ export const homeObjTwo = {
       'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
       buttonlabel: 'Learn More',
     imgStart: '',
-    img: 'images/svg-5.svg',
+    img: '',
     alt: 'Vault'
   }
   export const homeObjThree = {
@@ -35,7 +35,7 @@ export const homeObjTwo = {
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
       buttonlabel: 'Start Now',
     imgStart: 'start',
-    img: 'images/svg-7.svg',
+    img: '',
     alt: 'Vault'
   }
   export const homeObjFour = {
@@ -48,6 +48,6 @@ export const homeObjTwo = {
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
       buttonlabel: 'Sign Up Now',
     imgStart: 'start',
-    img: 'images/svg-8.svg',
+    img: '',
     alt: 'Vault'
   }
