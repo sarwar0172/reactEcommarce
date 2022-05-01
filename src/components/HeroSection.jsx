@@ -3,7 +3,7 @@ import {Button} from '../Button'
 import './Button.css'
 import { Link } from 'react-router-dom'
 import './Herosection.css'
-import img1 from '../image/svg-1.svg'
+import img1 from '../image/transition.png'
 function HeroSection({
     linghtBg,topLine,lightText,lightTextDesc,headline,description,buttonlabel,imgStart,img,alt,
 }) {
