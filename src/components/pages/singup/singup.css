@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content:center;
+}
+.input{
+    margin-top: 10px;
+    width: 400px;
+    height: 40px;
+    border: 2px solid salmon;
+    border-radius:20px;
+    padding-left: 5px;
+}
+.submit__button{
+    color: white;
+    background-color:rgb(99, 196, 99);
+    margin-top:20px;
+    margin-bottom: 20px;
+}
